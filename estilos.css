@@ -79,6 +79,13 @@ header nav ul li {
     vertical-align: top;
     width: 23%;
 }
+#terceraseccion article input{
+    border-radius: 5px;
+}
+#terceraseccion article input[type="button"]{
+    background: #8BC500;
+    color: #ffffff;
+}
 #terceraseccion article img{
     vertical-align: middle;
 }
